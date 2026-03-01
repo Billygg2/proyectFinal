@@ -3,21 +3,6 @@
 > **Proyecto Final — Construcción y Evolución del Software**  
 > API REST desarrollada con **Spring Boot 3.5** para la gestión de estudiantes, docentes, cursos, matrículas y calificaciones, aplicando prácticas modernas de **DevOps**.
 
----
-
-## 📋 Tabla de Contenidos
-
-- [Descripción del Proyecto](#-descripción-del-proyecto)
-- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-- [Requisitos Previos](#-requisitos-previos)
-- [Instalación y Ejecución](#-instalación-y-ejecución)
-- [Ejecución con Docker](#-ejecución-con-docker)
-- [Endpoints de la API](#-endpoints-de-la-api)
-- [Pruebas y Cobertura](#-pruebas-y-cobertura)
-- [Pipeline CI/CD](#-pipeline-cicd)
-
----
-
 ## 📌 Descripción del Proyecto
 
 Sistema backend de gestión académica que expone una **API REST** para administrar las entidades principales de un entorno educativo. El proyecto aplica un enfoque DevOps completo: automatización de builds con Maven, pruebas unitarias e integración con JUnit 5 y Mockito, contenedores Docker y pipeline de integración continua con GitHub Actions.
